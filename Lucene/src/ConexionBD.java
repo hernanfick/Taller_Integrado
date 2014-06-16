@@ -5,7 +5,7 @@ public class ConexionBD {
 	
 	private static Connection conexion;
 	private static Statement comando;
-	
+	// pico pal que lo lee
 	public static void conexion(String sql){
 		//********************************************** 
 		// Se definen datos para la conexion a la base de datos* 
