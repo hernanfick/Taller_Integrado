@@ -1,0 +1,11 @@
+@author Kyle Williams
+@title NGram Extraction Using Lucene
+@date March 20, 2013
+
+This program extracts n-grams from a piece of text.
+
+Compilation:
+javac -cp lucene-core-3.6.1.jar:lucene-analyzers-3.6.1.jar:. NGramDriver.java
+
+Execution:
+java -cp lucene-core-3.6.1.jar:lucene-analyzers-3.6.1.jar:. NGramDriver
