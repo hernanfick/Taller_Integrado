@@ -4,8 +4,12 @@
 
 This program extracts n-grams from a piece of text.
 
+hola
+
 Compilation:
 javac -cp lucene-core-3.6.1.jar:lucene-analyzers-3.6.1.jar:. NGramDriver.java
 
 Execution:
 java -cp lucene-core-3.6.1.jar:lucene-analyzers-3.6.1.jar:. NGramDriver
+
+Esto es una prueba
